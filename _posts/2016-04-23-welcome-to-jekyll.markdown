@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to WilBerlin!"
 date:   2016-04-23 13:41:52 +0200
 categories: jekyll update
 ---
